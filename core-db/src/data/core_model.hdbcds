@@ -1,0 +1,11 @@
+namespace saperp.data;
+
+context core_model {
+	type myKeyType: String(60);
+	
+	entity KNA1 {
+		CUSTID: String(55);
+		NAME: String(25);
+		ADDRESS: String(50);
+	};
+}

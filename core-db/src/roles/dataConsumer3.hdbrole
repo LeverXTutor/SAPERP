@@ -1,0 +1,12 @@
+{
+  "role": {
+    "name": "saperp.roles::dataConsumer3",
+    "object_privileges": [
+      {
+        "name":"saperp.data::core_model.KNA1",
+        "type":"TABLE",
+        "privileges":[ "SELECT" ]
+      }
+    ]
+  }
+}
